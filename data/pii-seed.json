@@ -1,0 +1,74 @@
+[
+  {
+    "employee_id": "E-1001",
+    "username": "alice",
+    "full_name": "Alice Park",
+    "dept": "sales",
+    "title": "Account Executive",
+    "email": "alice@sales.acharness.demo",
+    "phone": "+1-555-0101",
+    "ssn_last4": "8421",
+    "salary_band": "S4",
+    "hire_date": "2024-03-12"
+  },
+  {
+    "employee_id": "E-1002",
+    "username": "bob",
+    "full_name": "Bob Kim",
+    "dept": "hr",
+    "title": "HR Business Partner",
+    "email": "bob@hr.acharness.demo",
+    "phone": "+1-555-0102",
+    "ssn_last4": "1130",
+    "salary_band": "H3",
+    "hire_date": "2022-08-01"
+  },
+  {
+    "employee_id": "E-1003",
+    "username": "carol",
+    "full_name": "Carol Lee",
+    "dept": "eng",
+    "title": "Senior Software Engineer",
+    "email": "carol@eng.acharness.demo",
+    "phone": "+1-555-0103",
+    "ssn_last4": "6688",
+    "salary_band": "E5",
+    "hire_date": "2021-11-15"
+  },
+  {
+    "employee_id": "E-1004",
+    "username": "eric",
+    "full_name": "Eric Choi",
+    "dept": "fin",
+    "title": "Financial Analyst",
+    "email": "eric@fin.acharness.demo",
+    "phone": "+1-555-0104",
+    "ssn_last4": "2299",
+    "salary_band": "F3",
+    "hire_date": "2023-06-20"
+  },
+  {
+    "employee_id": "E-1005",
+    "username": "diana",
+    "full_name": "Diana Yoon",
+    "dept": "sales",
+    "title": "Sales Director",
+    "email": "diana@sales.acharness.demo",
+    "phone": "+1-555-0105",
+    "ssn_last4": "5512",
+    "salary_band": "S6",
+    "hire_date": "2019-02-04"
+  },
+  {
+    "employee_id": "E-1006",
+    "username": "frank",
+    "full_name": "Frank Hwang",
+    "dept": "eng",
+    "title": "Staff Engineer",
+    "email": "frank@eng.acharness.demo",
+    "phone": "+1-555-0106",
+    "ssn_last4": "9034",
+    "salary_band": "E6",
+    "hire_date": "2018-09-23"
+  }
+]
