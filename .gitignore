@@ -1,0 +1,44 @@
+# Build / dependency artifacts
+node_modules/
+cdk.out/
+cdk/build/
+cdk/cdk.out/
+*.tsbuildinfo
+
+# Local IDE / Claude Code settings
+.claude/
+
+# Lockfile not committed — versions pinned in package.json; regenerated on `npm install`
+cdk/package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+agents/dept-agent/.venv/
+
+# Local env / secrets
+.env
+.env.*
+!.env.example
+*.cache
+
+# Local MCP wiring — published as .mcp.json.example only
+.mcp.json
+
+# Private notes — research/ holds the SoT and scenario writeups (some contain
+# live AWS IDs); presentation/ is internal speaker material.
+research/
+presentation/
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# CDK
+.cdk.staging/
+*.swp

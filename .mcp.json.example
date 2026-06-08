@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "acharness-gateway": {
+      "type": "http",
+      "url": "https://<GATEWAY_ID>.gateway.bedrock-agentcore.<REGION>.amazonaws.com/mcp",
+      "headersHelper": "bash ${CLAUDE_PROJECT_DIR:-.}/scripts/get-mcp-token.sh"
+    }
+  }
+}
